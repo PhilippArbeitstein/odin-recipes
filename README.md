@@ -1,2 +1,3 @@
-# odin-recipes
-The Odin Project Recipes Project
+# The Odin Project - Recipes Project
+
+Learnings - HTML - Git
